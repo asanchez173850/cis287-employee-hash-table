@@ -1,6 +1,5 @@
 # cis287-employee-hash-table
-# cis287-employee-hash-table
-# Assignment 7 - Employee Hash Table
+
 
 ## Student Name
 Andrew Sanchez
